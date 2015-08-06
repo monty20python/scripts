@@ -1,3 +1,0 @@
-#!/bin/bash
-cd /usr/local/Cellar/wireshark/1.12.3/bin
-./wireshark-qt
